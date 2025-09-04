@@ -5,8 +5,8 @@ class HappyCoder < Formula
   sha256 "2368c2214626b39cb59936f420c2c9601e1668b0cc19dded155ff8a4282f46e6"
   license "MIT"
 
-  depends_on "node"
   depends_on "python" => :build
+  depends_on "node"
 
   def install
     # TODO: The @anthropic-ai/claude-code dependency includes a pre-compiled ripgrep.node binary
