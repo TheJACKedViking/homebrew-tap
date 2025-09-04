@@ -1,8 +1,8 @@
 class HappyCoder < Formula
   desc "Happy CLI tool for productive coding"
   homepage "https://github.com/slopus/happy-cli"
-  url "https://registry.npmjs.org/happy-coder/-/happy-coder-0.7.2.tgz"
-  sha256 "070da15d4375ce49d39370ab8924568c8a62894e27013078035754a8dc575986"
+  url "https://registry.npmjs.org/happy-coder/-/happy-coder-0.8.0.tgz"
+  sha256 "33491f14d9d1140ed0610755a5796b8b8725131d3a474c65a6d250623ac0bae0"
   license "MIT"
 
   depends_on "node"
