@@ -3,8 +3,8 @@ class HappyCoder < Formula
   homepage "https://github.com/slopus/happy-cli"
 
   # Choose ONE url/sha pair (I kept the newer one here)
-  url "https://registry.npmjs.org/happy-coder/-/happy-coder-0.10.0-2.tgz"
-  sha256 "4756566cdae2d88d7f4fc7aeff6fb9e7acb83330b560bd33bcc5010617c142ea"
+  url "https://registry.npmjs.org/happy-coder/-/happy-coder-0.10.0.tgz"
+  sha256 "5b3ca48766ae7190ef6705340305aa20901cba7a7b69ee0cc915f5a97bcf8cd5"
 
   license "MIT"
 
