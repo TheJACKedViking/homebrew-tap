@@ -3,8 +3,8 @@ class HappyCoder < Formula
   homepage "https://github.com/slopus/happy-cli"
 
   # Choose ONE url/sha pair (I kept the newer one here)
-  url "https://github.com/TheJACKedViking/happy-cli/archive/refs/tags/0.11.tar.gz"
-  sha256 "d5ee18da369601908ab9e895835d74b9ee23dc6b4719e76354ec6b3fbe7b7b3c"
+  url "https://github.com/slopus/happy-cli/archive/refs/tags/v0.11.0.tar.gz"
+  sha256 "9d6245736f121763f8d2b0dc524f774f58d2a1f00254ebd7c0131beebdd16db1"
 
   license "MIT"
 
